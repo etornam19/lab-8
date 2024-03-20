@@ -1,7 +1,7 @@
 #main-body{
   margin: 0;
   padding: 0;
-  font-family: 'Times New Roman', Times, serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   background-color: rgb(196, 191, 191);
 }
 
@@ -41,7 +41,7 @@
 }
   
 #main-navbar ul li a:hover {
-  background-color: #d0e7d9;
+  background-color: #9ae3f5;
 }
   
 #onpage {
