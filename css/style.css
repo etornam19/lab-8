@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(175, 178, 180);
+    background-color: rgb(231, 231, 231);
 }
 
 nav {
@@ -32,7 +32,7 @@ nav ul li {
   display: block;
 }
   
-  #main-navbar ul li a {
+#main-navbar ul li a {
   display: block;
   padding: 10px 20px;
   color: #fff;
