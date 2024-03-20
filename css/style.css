@@ -20,9 +20,9 @@ body{
 }
 
 #navbar-container {
-    float: left;
-    width: 100%;
-    position: relative;
+  float: left;
+  width: 100%;
+  position: relative;
 }
   
 #nav ul li {
@@ -51,7 +51,7 @@ body{
 #sidebar {
   position: fixed;
   right:0%;
-  background-color: rgb(255, 0, 0);
+  background-color: rgb(255, 35, 35);
   height: 100%;
   width: 20%;
 }
