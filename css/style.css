@@ -5,27 +5,27 @@ body{
     background-color: lightslategray;
 }
 
-#main-navbar {
-    background-color: rgb(170, 151, 255);
-    overflow: hidden;
+nav {
+  background-color: rgb(47, 81, 233);
+  overflow: hidden;
 }
   
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
 #navbar-container {
     float: left;
     width: 100%;
     position: relative;
 }
   
-#main-navbar ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    left: 50%;
-    float: left;
-}
-  
-#main-navbar ul li {
+nav ul li {
   float: left;
   position: relative;
   right: 50%;
@@ -51,7 +51,7 @@ body{
 #sidebar {
   position: fixed;
   right:0%;
-  background-color: rgb(245, 173, 39);
+  background-color: rgb(255, 0, 0);
   height: 100%;
   width: 20%;
 }
