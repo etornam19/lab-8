@@ -5,15 +5,15 @@
   background-color: rgb(240, 240, 240);
 }
 
-#main-navbar {
-  background-color: lightblue;
-  overflow: hidden;
-}
-
 #navbar-container {
   float: left;
   width: 100%;
   position: relative;
+}
+
+#main-navbar {
+    background-color: lightblue;
+    overflow: hidden;
 }
 
 #main-navbar ul {
