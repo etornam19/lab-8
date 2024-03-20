@@ -1,16 +1,16 @@
 body{
-    margin: 0;
-    padding: 0;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(231, 231, 231);
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(240, 240, 240);
 }
 
-nav {
+#nav {
   background-color: rgb(0, 46, 250);
   overflow: hidden;
 }
   
-nav ul {
+#nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -25,7 +25,7 @@ nav ul {
     position: relative;
 }
   
-nav ul li {
+#nav ul li {
   float: left;
   position: relative;
   right: 50%;
@@ -71,5 +71,5 @@ nav ul li {
 }
   
 #sidebar ul li a:hover {
-  background-color: #18191a;
+  background-color: #9ae3f5;
 }
