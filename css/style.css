@@ -29,7 +29,7 @@
   float: left;
   position: relative;
   right: 50%;
-  display: inline-block;
+  display: block;
 }
   
 #main-navbar ul li a {
@@ -41,7 +41,7 @@
 }
   
 #main-navbar ul li a:hover {
-  background-color: #946f6f;
+  background-color: #d0e7d9;
 }
   
 #onpage {
@@ -51,7 +51,7 @@
 #sidebar {
   position: fixed;
   right:0%;
-  background-color: rgb(255, 35, 35);
+  background-color: rgb(250, 54, 54);
   height: 100%;
   width: 20%;
 }
