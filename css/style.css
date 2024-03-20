@@ -29,7 +29,7 @@
   float: left;
   position: relative;
   right: 50%;
-  display: block;
+  display: inline-block;
 }
   
 #main-navbar ul li a {
