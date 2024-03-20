@@ -1,4 +1,4 @@
-body{
+#main-body{
   margin: 0;
   padding: 0;
   font-family: 'Times New Roman', Times, serif;
@@ -6,7 +6,7 @@ body{
 }
 
 #main-navbar {
-  background-color: rgb(0, 46, 250);
+  background-color: lightblue;
   overflow: hidden;
 }
 
